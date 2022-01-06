@@ -1,0 +1,47 @@
+Past actions or already completed actions -
+
+If we are useing DID , we should use V1 verb only
+
+I Completed MCA since 2011
+I watched movie yestedday night
+
+i connected to VM yesterday 
+They released me from that project in June.
+They deactiveted my v-id in last month
+
+They took me in new project in last month
+
+He lost the job in last month
+He attended interview in last week
+
+If we are useing DID , we should use V1 verb only
+
+I didn't complete MCS in last year
+I didn't watch movie yesterday night
+I didn't connect to VM yesterDay
+
+They didn't release me from that projest in June
+They didn't deactivate my v-id in last month
+They didn't take me in new project 
+
+He didn't lost the job in last month
+He didn't attend interview in last week
+
+
+Question mark:
+Did i complete MCA in 2011?
+Did i watch movie yesterday night?
+Did i connect to VM yesterday ?
+Did they release me from from that project in June?
+Did they deactivate my V-id in last month?
+Did they take me in new project?
+
+When did you compelete MCA?
+Why didn't you complete  MCA in last year?
+When did she come here?
+Why did she come here?
+How did she come here?
+How did she go there?
+Why did she go there?
+Which time i did go to banglare?
+
